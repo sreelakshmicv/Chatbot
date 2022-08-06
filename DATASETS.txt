@@ -1,0 +1,31 @@
+DATASETS LINK:
+https://www.kaggle.com/datasets/fungusamongus/chatbot-data
+https://www.kaggle.com/datasets/rdizzl3/glove6b50d
+
+I downloaded my dataset from kaggle . I use the cornel dialogue corpus dataset
+The corpus contains:
+
+movie_titles_metadata.txt
+movie_characters_metadata.txt
+movie_lines.txt
+movie_conversations.txt
+For this project I choose movie_conversations.txt and movie_lines.txt.
+
+In all files the field separator is " +++$+++ "
+
+movie_lines.txt - contains the actual text of each utterance
+
+fields:
+lineID
+characterID (who uttered this phrase)
+movieID
+character name
+text of the utterance
+movie_conversations.txt - the structure of the conversations
+
+fields
+characterID of the first character involved in the conversation
+characterID of the second character involved in the conversation
+movieID of the movie in which the conversation occurred
+I also downloaded a glove dataset to perform glove embedding.
+
