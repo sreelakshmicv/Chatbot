@@ -112,7 +112,7 @@ Git clone https://github.com/sreelakshmicv/Chatbot
 Now open the downloaded directory and install the required python packages using-
 pip install -r requirements.txt
 
-Now open Chatbot.ipynb and run all the cell.
+Now open CHATBOT.ipynb and run all the cell.
 
 **TRAINING AND EVALUATION**
 
