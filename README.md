@@ -1,4 +1,4 @@
-# ChatBot
+# CHATBOT
 
 ![th](https://user-images.githubusercontent.com/98879587/183256618-53de0d29-a6d8-4f01-a6c3-ffc62f8fb748.jpg)
 
