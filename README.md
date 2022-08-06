@@ -107,7 +107,7 @@ I use keras,tensorflow libraries and sklearn to fetch the datas.
 **INSTALLATION**
 
 To run this code in your local system you have to download this repository using-
-Git clone 
+Git clone https://github.com/sreelakshmicv/Chatbot
 
 Now open the downloaded directory and install the required python packages using-
 pip install -r requirements.txt
