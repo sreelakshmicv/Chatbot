@@ -1,0 +1,23 @@
+Numpy
+-------------------------
+Pandas
+-------------------------
+Tensorflow tf
+-------------------------
+From tensorflow :
+      1. Layer
+      2. Backend k
+      3. Model
+      4. Dense
+      5. Embedding
+      6. LSTM
+      7. Input
+      8. Bidirectional
+      9. Concatenate
+     10. Droupout
+     11. Attention
+------------------------
+Keras
+------------------------
+From keras :
+      1. pad_sequences
